@@ -2,7 +2,7 @@
 
 >This is a non-graphical game i.e., no graphics nothing as such. :+1:
 
-##**-Game Rules-**
+##Game Rules
 1. You will be given an incomplete word, you have to complete it.
 2. If the correct answer is **Divyansh** and you type **divyansh** it will be considered wrong, i.e., first alphabet must be capital.
 3. Points will be deducted according to no of failed attempts
