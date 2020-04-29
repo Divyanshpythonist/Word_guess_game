@@ -4,7 +4,7 @@
 
 ## Game Rules
 1. You will be given an incomplete word, you have to complete it.
-2. If the correct answer is **Divyansh** and you type **divyansh** it will be considered wrong, i.e., first alphabet must be capital.
+2. If the correct answer is **Divyansh** and you type **divyansh** or **Divyansh** or **diVYansh** it will be considered correct, i.e., case insensitive.
 3. Points will be deducted according to no of failed attempts
 4. Require a hint not a problem just type **HINT**
 5. Want to know the answer just type **ANSWER**
